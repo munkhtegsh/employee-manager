@@ -12,7 +12,7 @@ class EmployeeEditor extends Component {
     this.save = this.save.bind(this);
     this.cancel = this.cancel.bind(this);
   }
-
+  
   // componentWillReceiveProps
   componentWillReceiveProps(props) {
     this.setState({
