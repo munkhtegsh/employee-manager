@@ -44,7 +44,6 @@ class EmployeeEditor extends Component {
     this.setState({employee: employeeCopy, notModified: true});
   }
   
-
   render() {
     return (
       <div className="infoCard">

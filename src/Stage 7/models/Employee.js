@@ -4,7 +4,7 @@ export default class Employee {
     this.id = id;
     this.name = name;
     this.phone = phone;
-    this.title = title
+    this.title = title;
   }
   
   // updateName
